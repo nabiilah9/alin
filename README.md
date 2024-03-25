@@ -1,0 +1,2 @@
+# alin
+komputasi aljabar linier 
